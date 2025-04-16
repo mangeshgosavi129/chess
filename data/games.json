@@ -1,0 +1,16 @@
+{
+  "QKV7BC": {
+    "createdAt": "2025-04-16T05:50:55.384Z",
+    "playerColor": "white",
+    "board": "[[{\"type\":\"rook\",\"color\":\"black\"},{\"type\":\"knight\",\"color\":\"black\"},{\"type\":\"bishop\",\"color\":\"black\"},{\"type\":\"queen\",\"color\":\"black\"},{\"type\":\"king\",\"color\":\"black\"},{\"type\":\"bishop\",\"color\":\"black\"},{\"type\":\"knight\",\"color\":\"black\"},{\"type\":\"rook\",\"color\":\"black\"}],[{\"type\":\"pawn\",\"color\":\"black\"},{\"type\":\"pawn\",\"color\":\"black\"},{\"type\":\"pawn\",\"color\":\"black\"},{\"type\":\"pawn\",\"color\":\"black\"},null,{\"type\":\"pawn\",\"color\":\"black\"},{\"type\":\"pawn\",\"color\":\"black\"},{\"type\":\"pawn\",\"color\":\"black\"}],[null,null,null,null,null,null,null,null],[null,null,null,null,{\"type\":\"pawn\",\"color\":\"white\"},null,null,null],[null,null,null,null,null,null,null,null],[null,null,null,null,null,null,null,null],[{\"type\":\"pawn\",\"color\":\"white\"},{\"type\":\"pawn\",\"color\":\"white\"},{\"type\":\"pawn\",\"color\":\"white\"},null,{\"type\":\"pawn\",\"color\":\"white\"},{\"type\":\"pawn\",\"color\":\"white\"},{\"type\":\"pawn\",\"color\":\"white\"},{\"type\":\"pawn\",\"color\":\"white\"}],[{\"type\":\"rook\",\"color\":\"white\"},{\"type\":\"knight\",\"color\":\"white\"},{\"type\":\"bishop\",\"color\":\"white\"},{\"type\":\"queen\",\"color\":\"white\"},{\"type\":\"king\",\"color\":\"white\"},{\"type\":\"bishop\",\"color\":\"white\"},{\"type\":\"knight\",\"color\":\"white\"},{\"type\":\"rook\",\"color\":\"white\"}]]",
+    "status": "resigned",
+    "currentTurn": "black",
+    "moveHistory": [
+      "d2 → d4",
+      "e7 → e5",
+      "d4 → e5"
+    ],
+    "lastMoveTime": "2025-04-16T05:51:18.300Z",
+    "winner": "white"
+  }
+}
